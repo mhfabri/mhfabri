@@ -1,4 +1,4 @@
-<img width="370" height="259" alt="image" src="https://github.com/user-attachments/assets/7be31723-55e6-41eb-bf84-d612350dcc62" /><h1 align="center">Bem vindo!!!<br>Este é meu git profissional.</h1>
+<h1 align="center">Bem vindo!!!<br>Este é meu git profissional.</h1>
 
 ###
 

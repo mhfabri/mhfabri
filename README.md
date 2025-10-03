@@ -46,7 +46,9 @@
 </div>
 
 ###
-
-<footer align="center" color="rgba: 0, 0, 0, 0.3">
+<div align="center">
+  
+<footer>
   < / Fabri >
 </footer>
+</div>

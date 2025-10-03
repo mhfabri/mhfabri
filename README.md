@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mhfabri&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mhfabri&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="280" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhfabri&radius=16&theme=dracula&area=true&order=5&custom_title=Grafico%20de%20Commit&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 

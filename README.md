@@ -1,4 +1,4 @@
-<h1 align="center" font-size=80px>Bem vindo!!!<br>Este é meu git profissional.</h1>
+<h1 align="center">Bem vindo!!!<br>Este é meu git profissional.</h1>
 
 ###
 

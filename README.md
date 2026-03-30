@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mhfabri.mhfabri&"  />
+</div>
 
 <div align="center">
   <a href="https://instagram.com/mh.sfabri" target="_blank">
@@ -6,12 +9,6 @@
   <a href="mailto:matheusfabri337@gmail.com?subject=Entrando%20em%20contato%20apartir%20do%20github" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mhfabri.mhfabri&"  />
 </div>
 
 ###

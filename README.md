@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Eu sou do Brasil, estado de São Paulo.<br><br>- Estudo na ETEC MCM<br>- Sou um Dev FrontEnd e estudando o BackEnd aos poucos<br>- Gosto de desenvolver projetos para portifolio e empresas<br>- Tenho como habilidades vontade de aprender e trabalhar e gosto de desafios</p>
+<p align="left">Meu nome é Matheus.<br>Eu sou do Brasil, estado de São Paulo.<br><br>- Estudo na ETEC MCM<br>- Sou um Dev FrontEnd e estudando o BackEnd aos poucos<br>- Gosto de desenvolver projetos para portifolio e empresas<br>- Tenho como habilidades vontade de aprender e trabalhar e gosto de desafios</p>
 
 ###
 
